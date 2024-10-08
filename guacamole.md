@@ -5,3 +5,4 @@
 * salt
 * chili
 ## Instructions
+* Peel the avocado
