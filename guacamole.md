@@ -3,5 +3,5 @@
 *avocado
 *lemon
 *salt
-+chili
+*chili
 ##Instructions
